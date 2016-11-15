@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1069788587582",
+    "firebase_url": "https://bostontobudapest.firebaseio.com",
+    "project_id": "bostontobudapest",
+    "storage_bucket": "bostontobudapest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069788587582:android:49072df4ad5c9b4d",
+        "android_client_info": {
+          "package_name": "com.androiddevicetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069788587582-e2kudifg3p57bq0ae3i2r3aokl7o178t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcGzcRR0AT-cgTwHwNhaO1toaeUXX9_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
